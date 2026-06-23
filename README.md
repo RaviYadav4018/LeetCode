@@ -53,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/RaviYadav4018/LeetCode/tree/master/0796-rotate-string) |
+## Math
+|  |
+| ------- |
+| [0788-rotated-digits](https://github.com/RaviYadav4018/LeetCode/tree/master/0788-rotated-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0788-rotated-digits](https://github.com/RaviYadav4018/LeetCode/tree/master/0788-rotated-digits) |
 <!---LeetCode Topics End-->
