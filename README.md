@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RaviYadav4018/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0796-rotate-string](https://github.com/RaviYadav4018/LeetCode/tree/master/0796-rotate-string) |
+| [2833-furthest-point-from-origin](https://github.com/RaviYadav4018/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0788-rotated-digits](https://github.com/RaviYadav4018/LeetCode/tree/master/0788-rotated-digits) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/RaviYadav4018/LeetCode/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
