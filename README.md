@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RaviYadav4018/LeetCode/tree/master/0001-two-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RaviYadav4018/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/RaviYadav4018/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/RaviYadav4018/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/RaviYadav4018/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/RaviYadav4018/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/RaviYadav4018/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/RaviYadav4018/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
