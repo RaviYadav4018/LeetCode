@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/RaviYadav4018/LeetCode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RaviYadav4018/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/RaviYadav4018/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/RaviYadav4018/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RaviYadav4018/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/RaviYadav4018/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/RaviYadav4018/LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Trie
 |  |
 | ------- |
@@ -77,4 +80,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/RaviYadav4018/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
