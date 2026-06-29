@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RaviYadav4018/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0257-binary-tree-paths](https://github.com/RaviYadav4018/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0796-rotate-string](https://github.com/RaviYadav4018/LeetCode/tree/master/0796-rotate-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RaviYadav4018/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/RaviYadav4018/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RaviYadav4018/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RaviYadav4018/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/RaviYadav4018/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -125,15 +127,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RaviYadav4018/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RaviYadav4018/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/RaviYadav4018/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/RaviYadav4018/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/RaviYadav4018/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RaviYadav4018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/RaviYadav4018/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
