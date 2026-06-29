@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RaviYadav4018/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0796-rotate-string](https://github.com/RaviYadav4018/LeetCode/tree/master/0796-rotate-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RaviYadav4018/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/RaviYadav4018/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/RaviYadav4018/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RaviYadav4018/LeetCode/tree/master/0001-two-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RaviYadav4018/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RaviYadav4018/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RaviYadav4018/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/RaviYadav4018/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/RaviYadav4018/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/RaviYadav4018/LeetCode/tree/master/2540-minimum-common-value) |
