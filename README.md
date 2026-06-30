@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RaviYadav4018/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/RaviYadav4018/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RaviYadav4018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3379-transformed-array](https://github.com/RaviYadav4018/LeetCode/tree/master/3379-transformed-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/RaviYadav4018/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3379-transformed-array](https://github.com/RaviYadav4018/LeetCode/tree/master/3379-transformed-array) |
 ## String Matching
 |  |
 | ------- |
