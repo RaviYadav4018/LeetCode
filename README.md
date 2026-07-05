@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RaviYadav4018/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/RaviYadav4018/LeetCode/tree/master/0258-add-digits) |
 | [2553-separate-the-digits-in-an-array](https://github.com/RaviYadav4018/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3379-transformed-array](https://github.com/RaviYadav4018/LeetCode/tree/master/3379-transformed-array) |
 ## String Matching
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/RaviYadav4018/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/RaviYadav4018/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/RaviYadav4018/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/RaviYadav4018/LeetCode/tree/master/0258-add-digits) |
 | [0788-rotated-digits](https://github.com/RaviYadav4018/LeetCode/tree/master/0788-rotated-digits) |
 ## Dynamic Programming
 |  |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/RaviYadav4018/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/RaviYadav4018/LeetCode/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/RaviYadav4018/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
