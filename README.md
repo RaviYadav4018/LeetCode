@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/RaviYadav4018/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RaviYadav4018/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RaviYadav4018/LeetCode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/RaviYadav4018/LeetCode/tree/master/0292-nim-game) |
 | [0788-rotated-digits](https://github.com/RaviYadav4018/LeetCode/tree/master/0788-rotated-digits) |
 ## Dynamic Programming
 |  |
@@ -266,4 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/RaviYadav4018/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/RaviYadav4018/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/RaviYadav4018/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
