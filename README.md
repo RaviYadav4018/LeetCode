@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/RaviYadav4018/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RaviYadav4018/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/RaviYadav4018/LeetCode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/RaviYadav4018/LeetCode/tree/master/0326-power-of-three) |
 | [0788-rotated-digits](https://github.com/RaviYadav4018/LeetCode/tree/master/0788-rotated-digits) |
 ## Dynamic Programming
 |  |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/RaviYadav4018/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/RaviYadav4018/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/RaviYadav4018/LeetCode/tree/master/0326-power-of-three) |
 ## Number Theory
 |  |
 | ------- |
