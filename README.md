@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RaviYadav4018/LeetCode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RaviYadav4018/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RaviYadav4018/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0598-range-addition-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/0598-range-addition-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RaviYadav4018/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RaviYadav4018/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RaviYadav4018/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/RaviYadav4018/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/RaviYadav4018/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/RaviYadav4018/LeetCode/tree/master/0509-fibonacci-number) |
+| [0598-range-addition-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/0598-range-addition-ii) |
 | [0788-rotated-digits](https://github.com/RaviYadav4018/LeetCode/tree/master/0788-rotated-digits) |
 ## Dynamic Programming
 |  |
