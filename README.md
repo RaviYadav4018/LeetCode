@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/RaviYadav4018/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/RaviYadav4018/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/RaviYadav4018/LeetCode/tree/master/0415-add-strings) |
 | [0796-rotate-string](https://github.com/RaviYadav4018/LeetCode/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RaviYadav4018/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RaviYadav4018/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/RaviYadav4018/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/RaviYadav4018/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/RaviYadav4018/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/RaviYadav4018/LeetCode/tree/master/0415-add-strings) |
 | [2553-separate-the-digits-in-an-array](https://github.com/RaviYadav4018/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3379-transformed-array](https://github.com/RaviYadav4018/LeetCode/tree/master/3379-transformed-array) |
 ## String Matching
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/RaviYadav4018/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/RaviYadav4018/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/RaviYadav4018/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/RaviYadav4018/LeetCode/tree/master/0415-add-strings) |
 | [0788-rotated-digits](https://github.com/RaviYadav4018/LeetCode/tree/master/0788-rotated-digits) |
 ## Dynamic Programming
 |  |
