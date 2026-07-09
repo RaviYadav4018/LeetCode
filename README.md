@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/RaviYadav4018/LeetCode/tree/master/0788-rotated-digits) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RaviYadav4018/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/RaviYadav4018/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/RaviYadav4018/LeetCode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
