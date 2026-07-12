@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RaviYadav4018/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RaviYadav4018/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/RaviYadav4018/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RaviYadav4018/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/RaviYadav4018/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/RaviYadav4018/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/RaviYadav4018/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/RaviYadav4018/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/RaviYadav4018/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/RaviYadav4018/LeetCode/tree/master/0441-arranging-coins) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RaviYadav4018/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/RaviYadav4018/LeetCode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/RaviYadav4018/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RaviYadav4018/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RaviYadav4018/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2784-check-if-array-is-good](https://github.com/RaviYadav4018/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Simulation
 |  |
