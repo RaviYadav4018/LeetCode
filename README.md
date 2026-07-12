@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RaviYadav4018/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/RaviYadav4018/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RaviYadav4018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3295-report-spam-message](https://github.com/RaviYadav4018/LeetCode/tree/master/3295-report-spam-message) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/RaviYadav4018/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/RaviYadav4018/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/RaviYadav4018/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3295-report-spam-message](https://github.com/RaviYadav4018/LeetCode/tree/master/3295-report-spam-message) |
 ## Sliding Window
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/RaviYadav4018/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2942-find-words-containing-character](https://github.com/RaviYadav4018/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RaviYadav4018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3295-report-spam-message](https://github.com/RaviYadav4018/LeetCode/tree/master/3295-report-spam-message) |
 | [3379-transformed-array](https://github.com/RaviYadav4018/LeetCode/tree/master/3379-transformed-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
