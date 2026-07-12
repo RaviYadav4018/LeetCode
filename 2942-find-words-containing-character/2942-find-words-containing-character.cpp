@@ -4,15 +4,8 @@ public:
         vector<int>res;
         for(int i=0;i<words.size();i++)
         {
-            int n=words[i].size();
-            string wor=words[i];
-            for(int j=0;j<n;j++)
-            {
-                if(wor[j]==x)
-                {
-                    res.push_back(i);
-                    break;
-                }
+             if (words[i].find(x) != std::string::npos) {
+                res.push_back(i);
             }
         }
         return res;
