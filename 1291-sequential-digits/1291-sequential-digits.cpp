@@ -5,7 +5,9 @@ public:
     vector<int> sequentialDigits(int low, int high) {
         vector<int>res;
         string num="123456789";
-        for(int i=2;i<=9;i++)
+        int minLen = to_string(low).size();
+        int maxLen = to_string(high).size();
+        for(int i=minLen;i<=maxLen;i++)
         {
             for(int j=0;j+i<=9;j++)
             {//j=index,i=len
