@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/RaviYadav4018/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/RaviYadav4018/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/RaviYadav4018/LeetCode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/RaviYadav4018/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/RaviYadav4018/LeetCode/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/RaviYadav4018/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Iterator
 |  |
 | ------- |
