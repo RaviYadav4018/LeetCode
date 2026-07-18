@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RaviYadav4018/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/RaviYadav4018/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/RaviYadav4018/LeetCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/RaviYadav4018/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/RaviYadav4018/LeetCode/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/RaviYadav4018/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RaviYadav4018/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RaviYadav4018/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RaviYadav4018/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RaviYadav4018/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/RaviYadav4018/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/RaviYadav4018/LeetCode/tree/master/0202-happy-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RaviYadav4018/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2540-minimum-common-value](https://github.com/RaviYadav4018/LeetCode/tree/master/2540-minimum-common-value) |
