@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/RaviYadav4018/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RaviYadav4018/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RaviYadav4018/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1260-shift-2d-grid](https://github.com/RaviYadav4018/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/RaviYadav4018/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/RaviYadav4018/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/RaviYadav4018/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/RaviYadav4018/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/RaviYadav4018/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/RaviYadav4018/LeetCode/tree/master/0415-add-strings) |
+| [1260-shift-2d-grid](https://github.com/RaviYadav4018/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/RaviYadav4018/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3379-transformed-array](https://github.com/RaviYadav4018/LeetCode/tree/master/3379-transformed-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RaviYadav4018/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/RaviYadav4018/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RaviYadav4018/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RaviYadav4018/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/RaviYadav4018/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/RaviYadav4018/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/RaviYadav4018/LeetCode/tree/master/1765-map-of-highest-peak) |
 ## Geometry
