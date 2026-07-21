@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RaviYadav4018/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/RaviYadav4018/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RaviYadav4018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RaviYadav4018/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3295-report-spam-message](https://github.com/RaviYadav4018/LeetCode/tree/master/3295-report-spam-message) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/RaviYadav4018/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2942-find-words-containing-character](https://github.com/RaviYadav4018/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RaviYadav4018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RaviYadav4018/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3295-report-spam-message](https://github.com/RaviYadav4018/LeetCode/tree/master/3295-report-spam-message) |
 | [3379-transformed-array](https://github.com/RaviYadav4018/LeetCode/tree/master/3379-transformed-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/RaviYadav4018/LeetCode/tree/master/0342-power-of-four) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RaviYadav4018/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RaviYadav4018/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RaviYadav4018/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
