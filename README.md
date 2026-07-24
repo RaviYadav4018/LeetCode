@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RaviYadav4018/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/RaviYadav4018/LeetCode/tree/master/0127-word-ladder) |
 | [0202-happy-number](https://github.com/RaviYadav4018/LeetCode/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/RaviYadav4018/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RaviYadav4018/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/RaviYadav4018/LeetCode/tree/master/0200-number-of-islands) |
 | [0260-single-number-iii](https://github.com/RaviYadav4018/LeetCode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/RaviYadav4018/LeetCode/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/RaviYadav4018/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RaviYadav4018/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RaviYadav4018/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0542-01-matrix](https://github.com/RaviYadav4018/LeetCode/tree/master/0542-01-matrix) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RaviYadav4018/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/RaviYadav4018/LeetCode/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/RaviYadav4018/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RaviYadav4018/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaviYadav4018/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/RaviYadav4018/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2833-furthest-point-from-origin](https://github.com/RaviYadav4018/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Trie
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RaviYadav4018/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RaviYadav4018/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/RaviYadav4018/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/RaviYadav4018/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -492,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/RaviYadav4018/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/RaviYadav4018/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RaviYadav4018/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/RaviYadav4018/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -527,4 +533,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/RaviYadav4018/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RaviYadav4018/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RaviYadav4018/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
