@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RaviYadav4018/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/RaviYadav4018/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RaviYadav4018/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/RaviYadav4018/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/RaviYadav4018/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/RaviYadav4018/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/RaviYadav4018/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/RaviYadav4018/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RaviYadav4018/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RaviYadav4018/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/RaviYadav4018/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2784-check-if-array-is-good](https://github.com/RaviYadav4018/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RaviYadav4018/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/RaviYadav4018/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/RaviYadav4018/LeetCode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RaviYadav4018/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/RaviYadav4018/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RaviYadav4018/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RaviYadav4018/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RaviYadav4018/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/RaviYadav4018/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/RaviYadav4018/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
