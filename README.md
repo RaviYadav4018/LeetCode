@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3295-report-spam-message](https://github.com/RaviYadav4018/LeetCode/tree/master/3295-report-spam-message) |
 | [3379-transformed-array](https://github.com/RaviYadav4018/LeetCode/tree/master/3379-transformed-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RaviYadav4018/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RaviYadav4018/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RaviYadav4018/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/RaviYadav4018/LeetCode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RaviYadav4018/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RaviYadav4018/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RaviYadav4018/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/RaviYadav4018/LeetCode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RaviYadav4018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Backtracking
 |  |
 | ------- |
