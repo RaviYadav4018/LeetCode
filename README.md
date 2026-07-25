@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/RaviYadav4018/LeetCode/tree/master/0200-number-of-islands) |
 | [0260-single-number-iii](https://github.com/RaviYadav4018/LeetCode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/RaviYadav4018/LeetCode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RaviYadav4018/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RaviYadav4018/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RaviYadav4018/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/RaviYadav4018/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0275-h-index-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/0275-h-index-ii) |
 | [0367-valid-perfect-square](https://github.com/RaviYadav4018/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/RaviYadav4018/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/RaviYadav4018/LeetCode/tree/master/0441-arranging-coins) |
