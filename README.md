@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/RaviYadav4018/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3295-report-spam-message](https://github.com/RaviYadav4018/LeetCode/tree/master/3295-report-spam-message) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/RaviYadav4018/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/RaviYadav4018/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2784-check-if-array-is-good](https://github.com/RaviYadav4018/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/RaviYadav4018/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RaviYadav4018/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/RaviYadav4018/LeetCode/tree/master/0274-h-index) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/RaviYadav4018/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Database
 |  |
 | ------- |
