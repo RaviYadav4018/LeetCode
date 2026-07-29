@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/RaviYadav4018/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/RaviYadav4018/LeetCode/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/RaviYadav4018/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RaviYadav4018/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RaviYadav4018/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RaviYadav4018/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/RaviYadav4018/LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/RaviYadav4018/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/RaviYadav4018/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/RaviYadav4018/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/RaviYadav4018/LeetCode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/RaviYadav4018/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/RaviYadav4018/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Design
