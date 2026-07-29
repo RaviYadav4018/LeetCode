@@ -1,51 +1,43 @@
 class Solution {
 public:
-    void merge(int low,int mid,int high,vector<int>&nums)
+    int pivat(int low,int high,vector<int>&res)
     {
-        vector<int>temp;
-        int i=low;
-        int j=mid+1;
-        while(i<=mid&&j<=high)
-        {
-            if(nums[i]<=nums[j])
-            {
-                temp.push_back(nums[i]);
-                i++;
-            }
-            else
-            {
-                temp.push_back(nums[j]);
-                j++;
-            }
-        }
-        while(i<=mid)
-        {
-            temp.push_back(nums[i]);
-                i++;
-        }
-        while(j<=high)
-        {
-            temp.push_back(nums[j]);
-                j++;
-        }
-        for(int i=low;i<=high;i++)
-        {
-            nums[i]=temp[i-low];
-        }
+        int idx = low + rand() % (high - low + 1);
+        swap(res[low], res[idx]);   // Move a random element to the first position
 
+      
+       int pi=res[low];
+       int i=low;
+       int j=high;
+       while(i<j)
+       {
+           while(i<=high-1&&res[i]<=pi)
+           {
+            i++;
+           }
+           while(j>=low+1&&res[j]>pi)
+           {
+            j--;
+           }
+           if(i<j) swap(res[i],res[j]);
+       }
+         swap(res[low],res[j]);
+         return j;
     }
-    void bubblesort(int low,int high ,vector<int>&nums)
+    void quicksort(int low,int high,vector<int>&res)
     {
-        if(low>=high) return;
-        int mid=(high-low)/2+low;
-        bubblesort(low,mid,nums);
-        bubblesort(mid+1,high,nums);
-        merge(low,mid,high,nums);
+
+        if(low<high)
+        {
+            int piv=pivat(low,high,res);
+            quicksort(low,piv-1,res);
+            quicksort(piv+1,high,res);
+        }
     }
+  
     vector<int> sortArray(vector<int>& nums) {
         vector<int>res=nums;
-        bubblesort(0,nums.size()-1,res);
-        return res;
-       
+        quicksort(0,nums.size()-1,res);
+        return res; 
     }
 };
