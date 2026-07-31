@@ -4,46 +4,21 @@ public:
         
         int cnt=0;
         int ans=0;
-        unordered_map<char,int>mpp;
+        vector<int>mpp(26,0);
         for(int i=0;i<word.size();i++)
         {
-          mpp[word[i]]++;
+          mpp[word[i]-'a']++;
         }
-        priority_queue<int>pq;
+        sort(mpp.rbegin(),mpp.rend());
 
-        for(char ch='a';ch<='z';ch++)
-        {
-           if(mpp[ch]!=0)
-           {
-            pq.push(mpp[ch]);
-           }
-        }
-       while(!pq.empty())
+       for(int i=0;i<26;i++)
        {
-       int s=pq.top();
-        pq.pop();
-        
-        
-           
-                if(cnt<8)
-                {   
-                    ans+=s*1;   
-                }
-                else if(cnt<16)
-                {   
-                    ans+=s*2;
-                }
-                else if(cnt<24)
-                {
-                    ans+=s*3;
-                }
-                else
-                {
-                    ans+=s*4; 
-                }
-                cnt++;    
-        }
-        return ans;
+        int click=i/8+1;
+        int size=mpp[i];
+        ans+=size*click;
+       }
+      
+     return ans;
         
     }
 };
