@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/RaviYadav4018/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0901-online-stock-span](https://github.com/RaviYadav4018/LeetCode/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RaviYadav4018/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/RaviYadav4018/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0316-remove-duplicate-letters](https://github.com/RaviYadav4018/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0901-online-stock-span](https://github.com/RaviYadav4018/LeetCode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RaviYadav4018/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search Tree
 |  |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/RaviYadav4018/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0901-online-stock-span](https://github.com/RaviYadav4018/LeetCode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RaviYadav4018/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Minimum Spanning Tree
 |  |
@@ -599,4 +602,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/RaviYadav4018/LeetCode/tree/master/0912-sort-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/RaviYadav4018/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
