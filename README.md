@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/RaviYadav4018/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/RaviYadav4018/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/RaviYadav4018/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/RaviYadav4018/LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/RaviYadav4018/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/RaviYadav4018/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/RaviYadav4018/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/RaviYadav4018/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/RaviYadav4018/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/RaviYadav4018/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -609,4 +611,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/RaviYadav4018/LeetCode/tree/master/0901-online-stock-span) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/RaviYadav4018/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
