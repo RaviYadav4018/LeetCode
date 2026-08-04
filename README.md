@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RaviYadav4018/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/RaviYadav4018/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/RaviYadav4018/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/RaviYadav4018/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/RaviYadav4018/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/RaviYadav4018/LeetCode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/RaviYadav4018/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/RaviYadav4018/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/RaviYadav4018/LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/RaviYadav4018/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/RaviYadav4018/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RaviYadav4018/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/0090-subsets-ii) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/RaviYadav4018/LeetCode/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RaviYadav4018/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/RaviYadav4018/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/RaviYadav4018/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/RaviYadav4018/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/RaviYadav4018/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/RaviYadav4018/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/RaviYadav4018/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/RaviYadav4018/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/RaviYadav4018/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RaviYadav4018/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/RaviYadav4018/LeetCode/tree/master/0542-01-matrix) |
