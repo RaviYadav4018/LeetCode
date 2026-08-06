@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RaviYadav4018/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/RaviYadav4018/LeetCode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/RaviYadav4018/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/RaviYadav4018/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/RaviYadav4018/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RaviYadav4018/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/RaviYadav4018/LeetCode/tree/master/0202-happy-number) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/RaviYadav4018/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/RaviYadav4018/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/RaviYadav4018/LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/RaviYadav4018/LeetCode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RaviYadav4018/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/RaviYadav4018/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/RaviYadav4018/LeetCode/tree/master/0509-fibonacci-number) |
 ## Union-Find
 |  |
