@@ -10,18 +10,14 @@ public:
         {
             sum+=nums[r];
             
-            if(sum>=target)
-            {
-               minlen=min(minlen,r-l+1);
-                while(sum>target)
+           
+                while(sum>=target)
                 {
                    minlen=min(minlen,r-l+1);
                    sum-=nums[l];
                    l++;
                 }
-                if(sum==target) minlen=min(minlen,r-l+1);
-              
-            }
+            
           
               r++;    
         }
