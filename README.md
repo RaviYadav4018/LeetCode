@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RaviYadav4018/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/RaviYadav4018/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/RaviYadav4018/LeetCode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/RaviYadav4018/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/RaviYadav4018/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/RaviYadav4018/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/RaviYadav4018/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/RaviYadav4018/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/RaviYadav4018/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RaviYadav4018/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/RaviYadav4018/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/0213-house-robber-ii) |
@@ -654,4 +656,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/RaviYadav4018/LeetCode/tree/master/0037-sudoku-solver) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/RaviYadav4018/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
