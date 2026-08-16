@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RaviYadav4018/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RaviYadav4018/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RaviYadav4018/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0127-word-ladder](https://github.com/RaviYadav4018/LeetCode/tree/master/0127-word-ladder) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RaviYadav4018/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RaviYadav4018/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/RaviYadav4018/LeetCode/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RaviYadav4018/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/RaviYadav4018/LeetCode/tree/master/0130-surrounded-regions) |
