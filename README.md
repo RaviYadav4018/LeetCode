@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/RaviYadav4018/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RaviYadav4018/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RaviYadav4018/LeetCode/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/RaviYadav4018/LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/RaviYadav4018/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/RaviYadav4018/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RaviYadav4018/LeetCode/tree/master/0342-power-of-four) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/RaviYadav4018/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/RaviYadav4018/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/RaviYadav4018/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/RaviYadav4018/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/RaviYadav4018/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/RaviYadav4018/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/RaviYadav4018/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RaviYadav4018/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/RaviYadav4018/LeetCode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RaviYadav4018/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/RaviYadav4018/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/RaviYadav4018/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/RaviYadav4018/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/RaviYadav4018/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RaviYadav4018/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RaviYadav4018/LeetCode/tree/master/0494-target-sum) |
@@ -730,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/RaviYadav4018/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/RaviYadav4018/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
