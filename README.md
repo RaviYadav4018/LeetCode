@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/RaviYadav4018/LeetCode/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RaviYadav4018/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/RaviYadav4018/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RaviYadav4018/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RaviYadav4018/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RaviYadav4018/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/RaviYadav4018/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/RaviYadav4018/LeetCode/tree/master/0788-rotated-digits) |
 | [0931-minimum-falling-path-sum](https://github.com/RaviYadav4018/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/RaviYadav4018/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RaviYadav4018/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RaviYadav4018/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RaviYadav4018/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
