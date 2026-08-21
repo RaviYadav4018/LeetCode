@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/RaviYadav4018/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/RaviYadav4018/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/RaviYadav4018/LeetCode/tree/master/0415-add-strings) |
+| [0516-longest-palindromic-subsequence](https://github.com/RaviYadav4018/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/RaviYadav4018/LeetCode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/RaviYadav4018/LeetCode/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RaviYadav4018/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/RaviYadav4018/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RaviYadav4018/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/RaviYadav4018/LeetCode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/RaviYadav4018/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/RaviYadav4018/LeetCode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RaviYadav4018/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
