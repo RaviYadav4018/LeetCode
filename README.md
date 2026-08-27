@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RaviYadav4018/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/RaviYadav4018/LeetCode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/RaviYadav4018/LeetCode/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/RaviYadav4018/LeetCode/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RaviYadav4018/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/RaviYadav4018/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/RaviYadav4018/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/RaviYadav4018/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/RaviYadav4018/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/RaviYadav4018/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/RaviYadav4018/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/RaviYadav4018/LeetCode/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/RaviYadav4018/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RaviYadav4018/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
