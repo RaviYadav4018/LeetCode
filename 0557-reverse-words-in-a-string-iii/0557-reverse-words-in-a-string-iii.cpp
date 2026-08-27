@@ -7,12 +7,12 @@ public:
             string ss="";
             while(i<s.size()&&s[i]!=' ')
             {
-                ss+=s[i];
+                ss=s[i]+ss;
                 i++;
             }
             if(ss!="")
             {
-                reverse(ss.begin(),ss.end());
+                
                 res+=ss;
                 res+=' ';
             }
